@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none !important;
+    font-size: 25px;
+    color: black !important;
+    font-weight: 600;
+}
+
+a:hover {
+    color: blue !important;
+}
+
+.center__content__action {
+    margin: 10px 0;
+}
+
+.center__content__img {
+    width: 85%;
+}
+
+.center__content__img img {
+    width: 100%;
+}
+
+.font-icon {
+    margin: 0 5px;
+    color: rgb(139, 139, 194);
+    font-size: 30px;
+}
